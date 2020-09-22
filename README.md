@@ -1,5 +1,7 @@
 # Sistemas_Programables
 
-hola
+En este repositorio estarán los trabajos de la materia de sistemas programables
 
-* [facebook](www.facebook.com)
+menu
+
+* [C0.2](blog/C0.2VanessaMarlenneRodriguezBaez_Zerox.md)
