@@ -2,7 +2,7 @@
 
 En este repositorio estarán los trabajos de la materia de sistemas programables
 
-# :pushpin: Menú #
+# :pushpin: Indice #
 
 * [C0.2 Cuestionario I4.0](blog/C0.2VanessaMarlenneRodriguezBaez_Zerox.md)
 
