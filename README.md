@@ -1,6 +1,21 @@
 # :computer: Sistemas_Programables
 
-En este repositorio estarán los trabajos de la materia de sistemas programables
+![Logo](img/logo_TECT.png)
+![LogoS](img/LogoSistemas.png)
+
+# :woman: Información #
+
+**Nombre Del alumno:** Rodríguez Báez Vanessa Marlenne.
+
+**Numero de control:** 17210634.
+
+**Carrera:** Sistemas computacionales.
+
+**Nombre Del equipo:** Zerox.
+
+**Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
+
+**Materia:** Sistemas Programables.
 
 # :pushpin: Indice #
 
