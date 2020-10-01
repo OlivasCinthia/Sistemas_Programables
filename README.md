@@ -29,3 +29,4 @@
 * [C1.3 Circuito Electronico Para uso de sensores y transductores](https://github.com/vanessamRodriguez/Sistemas_Programables/blob/master/blog/C1.3%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
 **Carpeta Docs**
+* [A1.2 Sensor_FotoResistivo]()
