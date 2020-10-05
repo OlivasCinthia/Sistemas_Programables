@@ -27,5 +27,6 @@
 * [C1.2 Circuito electrónico básico](blog/C1.2%20RodriguezBaezVanessaMarlenne_Zerox.md)
 
 * [C1.3 Circuito Electronico Para uso de sensores y transductores](blog/C1.3%20VanessaMarlenneRodriguezBaez_Zerox.md)
+  
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
