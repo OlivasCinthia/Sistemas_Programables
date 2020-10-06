@@ -28,5 +28,7 @@
 
 * [C1.3 Circuito Electronico Para uso de sensores y transductores](blog/C1.3%20VanessaMarlenneRodriguezBaez_Zerox.md)
   
+* [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](blog/C1.4%20VanessaMarlenneRodriguezBaez_Zerox.md)
+  
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
