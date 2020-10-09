@@ -49,7 +49,7 @@ ___
     - [ ] 1.4 Sensor Temperatura y humedad [DHT11](https://articulo.mercadolibre.com.mx/MLM-664315278-sensor-de-temperatura-y-humedad-dht11-cjumpers-arduino-pic-_JM?quantity=1#position=1&type=item&tracking_id=e28e7442-6ce8-420b-99e1-99b2efd2d51f)
     - [ ] 1.5 Sensor Temperatura y humedad [DHT12](https://articulo.mercadolibre.com.mx/MLM-761350149-sensor-de-temperatura-y-humedad-dht22-arduino-_JM?quantity=1#position=1&type=item&tracking_id=509ff3d0-c091-4fbc-8ff5-63ff0c0adaec)
     - [ ] 1.6 Sensor de color RGB TCS34725
-    - [ ] 1.7 Sensor Control Remote infrarrojo [AX-1838HS](https://articulo.mercadolibre.com.mxMLM-665821120-modulo-sensor-reconocimiento-de-color-rgb-tcs34725arduino-_JM?quantity=1#position=1&type=itemtracking_id=fd55dc31-3426-49ad-999f-ef5cf0a70bf0)
+    - [x] 1.7 Sensor Control Remote infrarrojo [AX-1838HS](https://articulo.mercadolibre.com.mxMLM-665821120-modulo-sensor-reconocimiento-de-color-rgb-tcs34725arduino-_JM?quantity=1#position=1&type=itemtracking_id=fd55dc31-3426-49ad-999f-ef5cf0a70bf0)
     - [ ] 1.8 Sensor seguidor de pistas [TCRT5000](https://articulo.mercadolibre.com.mx/MLM-602097604-modulo-tcrt5000-sensor-optico-reflectivo-arduino-pic-_JM?quantity=1#position=1&type=item&tracking_id=6e9e4318-5969-4b28-a765-17a08bd5dc3f)
     - [ ] 1.9 Sensor de movimiento [PIR HC-SR501](https://articulo.mercadolibre.com.mx/MLM-603369291-sensor-de-movimiento-pir-hc-sr501-arduino-pic-_JM?quantity=1#position=1&type=item&tracking_id=59121a6f-e868-4aa0-ae14-430f1cfd2158)
     - [ ] 1.10 Sensor de distancia óptico [Sharp 2Y0A02/GP2Y0A02YK0F](https://articulo.mercadolibre.com.mx/MLM-554899938-sensor-infrarrojo-sharp-gp2y0a02yk-2y0a02-20-150cm-_JM?quantity=1#position=1&type=item&tracking_id=155e5495-de69-4b76-a797-826cda4686c2)
