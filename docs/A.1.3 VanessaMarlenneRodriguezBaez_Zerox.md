@@ -72,6 +72,13 @@ del punto anterior.
     - **Bibliográfia**, el cual debe estar al estilo camuflaje, es decir dentro del cuerpo del desarrollo como etiqueta a enlaces cada 
 vez que mencione el concepto.
 
+      [Sensor de Control Remoto Infrarrojo AX-1838HS](http://dalincom.ru/datasheet/AX-1838HS.pdf?fbclid=IwAR2N8R31CxP3IuGqRcREncHbF-bN5JUWkT2wM2hge4FUv2udBVTeaa2XSos)
+
+      [Comportamiento](https://www.luisllamas.es/arduino-mando-a-distancia-infrarrojo/?fbclid=IwAR35H9ylM8b_1RBGoncsw4We3ObSLFWxl1xeoTwQ_-DwD_dSeqT8hy2_hPI)
+
+      [Video del minuto 2:55 al 3:10](https://www.youtube.com/watch?v=vrscN4EvIgc&feature=emb_logo)
+      
+
 **Nota** Las bibliográfias se encuentran camuflajeadas dentro de cada titulo de la presentación.
 
 * [Presentacion PDF](https://github.com/vanessamRodriguez/Sistemas_Programables/blob/master/PDF/Sensor%20de%20Control%20Remoto%20Infrarrojo%20AX-1838HS.pdf)
