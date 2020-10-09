@@ -71,8 +71,18 @@ del punto anterior.
     - **Conclusiones** por cada uno de los integrantes del equipo.
     - **Bibliográfia**, el cual debe estar al estilo camuflaje, es decir dentro del cuerpo del desarrollo como etiqueta a enlaces cada 
 vez que mencione el concepto.
-5. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la 
+
+**Nota** Las bibliográfias se encuentran camuflajeadas dentro de cada titulo de la presentación.
+
+* [Presentacion PDF](../PDF/Sensor%20de%20Control%20Remoto%20Infrarrojo%20AX-1838HS.pdf)
+4. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la 
 actividad
+
+![Evidencia 1](../img/1.png)
+![Evidencia 2](../img/2.png)
+![Evidencia 3](../img/3.png)
+![Evidencia 4](../img/4.png)
+![Evidencia 5](../img/5.png)
 
 ___
 
@@ -85,4 +95,10 @@ ___
 | Demostración  | El alumno se presenta durante la explicación de la funcionalidad de la actividad?            | 20      |
 | Conclusiones  | Se incluye una opinión personal de la actividad  por cada uno de los integrantes del equipo? | 10      |
 
-:house: [Ir a sensores](../docs/D1.0_Sensores.md)
+:house: [Link  Díaz Navarro Alejandro](https://github.com/AlejandroDiaz96/SistemasProgramables2020)
+
+:house: [Link Rodríguez Báez Vanessa Marlenne](https://github.com/vanessamRodriguez/Sistemas_Programables)
+
+
+:house: [Link Soria Márquez Guillermo](https://github.com/GuillermoSoria97/Sistemas_P)
+

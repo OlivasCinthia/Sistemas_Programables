@@ -32,3 +32,5 @@
   
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
+
+* [A1.3 Tipos de Sensores Comerciales](docs/A.1.3%20VanessaMarlenneRodriguezBaez_Zerox.md)
