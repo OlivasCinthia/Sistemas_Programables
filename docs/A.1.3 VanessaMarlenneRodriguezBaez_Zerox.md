@@ -74,7 +74,7 @@ vez que mencione el concepto.
 
 **Nota** Las bibliográfias se encuentran camuflajeadas dentro de cada titulo de la presentación.
 
-* [Presentacion PDF](../PDF/Sensor%20de%20Control%20Remoto%20Infrarrojo%20AX-1838HS.pdf)
+* [Presentacion PDF](https://github.com/vanessamRodriguez/Sistemas_Programables/blob/master/PDF/Sensor%20de%20Control%20Remoto%20Infrarrojo%20AX-1838HS.pdf)
 4. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la 
 actividad
 
