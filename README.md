@@ -32,7 +32,7 @@
   
 * [C1.5  Tipo de sensores de acuerdo con su uso aplicativo.](blog/C1.5%20VanessaMarlenneRodriguezBaez_Zerox.md) 
 
-*[C2.1 Actuadores neumaticos Hidraulicos](blog/C2.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
+* [C2.1 Actuadores neumaticos Hidraulicos](blog/C2.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
   
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
