@@ -35,6 +35,8 @@
 * [C2.1 Actuadores neumaticos Hidraulicos](blog/C2.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
 * [C2.2 Cuestionario Actuadores Eléctricos](blog/C2.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
+
+* [C2.3  Circuito temporizador 555](blog/C2.3%20VanessaMarlenneRodriguezBaez_Zerox.md)
   
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
