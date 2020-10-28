@@ -48,17 +48,20 @@
     <img alt="Logo" src="../img/C2.x_CircuitoNe555MotorDC.png" width=850 height=350>
 </p>
 
+![etapa1](../img/Etapa1.png)
+
 3. Como se podrá observar en el circuito anterior existe un area identificada como "Red de tiempo" y otra "Filtro de desacople", **explique el proposito de ambos terminologias**.
    
-  - **Red de tiempo** : La red de tiempo es donde se va a modificar los valores de la resistencia y el capacitor para asi el led dure el tiempo que se desea para la practica. 
+  - **Red de tiempo:** La red de tiempo es donde se va a modificar los valores de la resistencia y el capacitor para asi el led dure el tiempo que se desea para la practica.
+  - **Filtro de desacople:** Se utiliza para conducir corriente alterna alrededor de un componente o un grupo de componentes. Se ocupa del ruido, al ayudar a crear una señal de corriente continua más limpia. Al llevar las señales de CA a tierra, todo el ruido de una señal de CC se elimina de forma efectiva.
 
 4. Continuando con la imagen anterior, observe se muestra la ecuación Ct= 1.1 * R1 * C1, la cual es utilizada para establecer el tiempo de **encendido del pulso de salida**. Basándose en esa ecuación anterior calcule los valores de **R1 y C1** si se desea mantener encendido el pulso de salida, dada las 3 condiciones requeridas en la tabla anexa.
 
     | Numero | Condición  | Valor de R1 | Valor de C1 |
     | ------ | ---------- | ----------- | ----------- |
-    | 1      | 3 segundos |   18K ohms          |   160Mf          |
-    | 2      | 5 segundos | 20k Ohms            | 228Mf            |
-    | 3      | 8 segundos | 33K ohms            |  221Mf          |
+    | 1      | 3 segundos |   18K ohms          |   160mf          |
+    | 2      | 5 segundos | 20k Ohms            | 228mf            |
+    | 3      | 8 segundos | 33K ohms            |  221mf          |
 
 ## **Operaciones**
 
@@ -79,9 +82,9 @@ Ct= 1.1 * R1 * C1
 
   C1= 228 Mf
 
-  Cf= 1.1 * 20,000 * 0.000228 = **5.016 seg** 
+  Cf= 1.1 * 20,000 * 0.000228 = **5.016 seg**
 
- - **8 Segundos** 
+ - **8 Segundos**
 
 R1= 33K ohms
 
@@ -90,10 +93,29 @@ C1= 221 Mf
 Ct= 1.1 * 33,000 * 0.000221= **8.02 seg**
 
 5. Una vez que se halla completado la tabla anterior, inicie la simulación para cualquiera de las tres condiciones y observe el comportamiento del Led;  **explique su observación**.
-
+   
+- Para iniciar el encendido del led se debe presionar el botón lo cual conlleva que pasado el tiempo el cual le asgnemos con los valores de R1 y C1 este se apaga.
+  
 6. Ensamble la etapa 2 e integre la terminal del pulso de salida a la entrada de la base del transistor de esta segunda etapa.
+   ![Etapa2](../img/Etapa1%20y%20Etapa2.png)
 7. Una vez concluido el paso anterior, elija una de las 3 condiciones registradas en la tabla anterior y observe el comportamiento del motor DC; **explique su observación**.
+
+- Al presionar el botón el led enciende con ello el motor empieza a trabajar durante el tiempo que led esté encendido una vez este se apague el motor dejara de seguir su marcha.
+
 8. Una vez que el tiempo de encendido del pulso de salida de la etapa 1 se completo, **que sucede con el motor DC? Explique la razon de este comportamiento?**
+- El circuito 555 deja de enviar la señal lo cual hace que el transistor ya no recibe ninguna señal los cual provoca que el motor ya no siga trabajando y termina deteniéndose.
+- 
+9.  Opinion Personal
+- **Diaz Navarro Alejandro:**
+- **Rodríguez Báez Vanessa Marlenne:** En este circuito se pude notar como el integrado 555 manda su señal y hace que todo funcione y cambiando los valores de una resistencia y de un condensador es el tiempo en el que el led y el motor funcionaran debido a que el 555 manda su señal al transistor y este a su vez enciende el motor y cuando el 555 ya no manda ninguna señal hace que el led y el motor se apaguen en el tiempo que se programo.
+
+- **Soria Márquez Guillermo:**
+10.  Evidencia 
+![Evidencia1](../img/Evi1.png)
+![Evidencia2](../img/Evi2.png)
+![Evidencia3](../img/Evi3.png)
+![Evidencia4](../img/Evi4.png)
+
 ### :bomb: Rubrica
 
 | Criterios     | Descripción                                                                                  | Puntaje |
