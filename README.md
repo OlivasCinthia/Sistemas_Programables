@@ -39,6 +39,12 @@
 
 * [C2.3  Circuito temporizador 555](blog/C2.3%20VanessaMarlenneRodriguezBaez_Zerox.md)
   
+**Unidad 3**
+* [C3.1 Arduino IDE Salida Digital](blog/C3.1%20VanessaMarlenneRodriguezBaez_zerox.md)
+
+* [C3.2 Arduino IDE Entrada Digital e impresion serial](blog/C3.2%20VanessaMarlenneRodriguezBaez_zerox.md)
+  
+  
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
