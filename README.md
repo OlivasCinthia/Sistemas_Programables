@@ -44,7 +44,7 @@
 
 * [C3.2 Arduino IDE Entrada Digital e impresion serial](blog/C3.2%20VanessaMarlenneRodriguezBaez_zerox.md)
   
-* [Arduino IDE Entrada Analoga y funcion serial](blog/C3.3%20VanessaMarlenneRodriguezBaez_zerox.md)
+* [C3.3 Arduino IDE Entrada Analoga y funcion serial](blog/C3.3%20VanessaMarlenneRodriguezBaez_zerox.md)
   
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
