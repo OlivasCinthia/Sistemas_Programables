@@ -59,3 +59,6 @@
 * [A2.1 Tipos de Actuadores Comerciales](docs/A2.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
 * [A2.2 Circuito temporizador 555 y motor eléctrico](docs/A2.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
+
+**Unidad 3**
+* [A.3.1 Circuito sensor de deteccion de objetos](docs/A3.1%20VanessaMarlenneRodriguezBaez_zerox.md)
