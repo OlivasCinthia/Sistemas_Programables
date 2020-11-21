@@ -48,6 +48,8 @@
 
 * [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](blog/C3.4%20VanessaMarlenneRodriguezBaez_zerox.md)  
 
+* [C3.6 Arduino IDE, ESP32 y Entrada Analogica](blog/C3.6%20VanessaMarlenneRodriguezBaez_Zerox.md)
+
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
