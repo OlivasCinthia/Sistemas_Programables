@@ -50,6 +50,8 @@
 
 * [C3.6 Arduino IDE, ESP32 y Entrada Analogica](blog/C3.6%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
+* [C3.7 Arduino IDE, ESP32 y PWM](blog/C3.7%20VanessaMarlenneRodriguezBaez_Zerox.md)
+
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
