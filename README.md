@@ -68,3 +68,5 @@
 
 **Unidad 3**
 * [A.3.1 Circuito sensor de deteccion de objetos](docs/A3.1%20VanessaMarlenneRodriguezBaez_zerox.md)
+
+* [A3.2  Circuito y programacion de un sensor de tactor con NodeMCU ESP32](docs/A3.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
