@@ -56,6 +56,7 @@
 
 **Unidad 4**
 * [C4.1 Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
+* [C4.2 Comunicacion por medio del protocolo Wi-Fi](blog/C4.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
