@@ -79,3 +79,4 @@
   
 **Unidad 4**
 * [A.4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](docs/A4.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
+* [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](docs/A4.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
