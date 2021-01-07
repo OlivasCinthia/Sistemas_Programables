@@ -58,6 +58,10 @@
 * [C4.1 Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
 * [C4.2 Comunicacion por medio del protocolo Wi-Fi](blog/C4.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
+**Unidad 5**
+* [C5.1 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un sensor](blog/C5.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
+* [ C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](blog/C5.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
+  
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
