@@ -60,7 +60,7 @@
 
 **Unidad 5**
 * [C5.1 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un sensor](blog/C5.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
-* [ C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](blog/C5.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
+
   
 **Carpeta Docs**
 * [A1.2 Sensor_FotoResistivo](docs/A1.2%20VanessaMarlenneRodriguezBaez_Zerox.md)
